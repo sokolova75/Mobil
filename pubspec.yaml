@@ -1,0 +1,11 @@
+name: stepcounter
+description: Simple step counter app with history feature
+version: 1.0.0
+
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
